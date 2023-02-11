@@ -34,7 +34,7 @@ for i in podsiete:
     print("------------------------------------------")
     newip = broadcast_address+1
     
-input("Stlac akukolvek klavesu na pokracovanie")
+input("Stlac ENTER na pokracovanie")
 
 
 
