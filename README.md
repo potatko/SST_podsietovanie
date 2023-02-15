@@ -5,7 +5,7 @@ Program na vytvorenie tabulky podsietovania zo zadaneho pocut pocitacov v kazdej
 
 
 ## Vstup
-1. Adresa siete v tvare: xxx.xxx.xxx.xxx/prefix. Napr. 192.168.0.0/24
+1. Adresa siete v tvare: xxx.xxx.xxx.xxx. Napr. 192.168.0.0
 2. Pocet podsieti v tvare: x. Napr. 5
 3. Pocet hostov v každej z podsieti v tvare: x. Napr. 15654
 ## Čo treba urobiť
